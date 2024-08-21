@@ -50,19 +50,28 @@ pip install speechrecognition requests
 
 1. Open the downloaded code files, specifically `LLM_Gemini_Eng.py`.
 2. Paste the copied cookie values into the designated sections of the code, replacing the placeholders within quotation marks (see Figure 2).
+3. Update the IP address of the LIMO device in both the PC and LIMO code files (see Figures 3 and 4).
+
+
 
 **Figure 2: Paste the cookies into the code.**
+
+
 ![image](https://github.com/user-attachments/assets/38289879-7395-4989-bec9-e15f2476fbdd)
 
 
 
-3. Update the IP address of the LIMO device in both the PC and LIMO code files (see Figures 3 and 4).
+
 **Figure 3: Update IP Address of LIMO in (PC) Code file.**
+
+
 ![image](https://github.com/user-attachments/assets/c845be21-0700-424e-8b70-09f823c68a9e)
 
 
 
 **Figure 4: Update IP Address of LIMO in (LIMO) Code file.**
+
+
 ![image](https://github.com/user-attachments/assets/940ea030-3598-41fa-ab7c-c46aa6f5ec17)
 
 **2.5. Deployment**
