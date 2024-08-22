@@ -153,6 +153,10 @@ In Specific Mode, you can use voice commands to control LIMO. You have a 2-secon
 - The SLAM command operates in autonomous mode until the "Save" command is issued. Saving closes all associated processes.
 - The Navigate command requires a saved SLAM map and pre-defined coordinates within its code file.
 
-**4. Additional Notes**
+**3.4. Operational Notes**
+- The wake word is "LIMO"
+- LIMO LLM Operational overview can be observed in the illustration below.
 
-- The wake word to
+
+![image](https://github.com/user-attachments/assets/2fccb750-2b4e-4eab-bfcd-b26604b1a5c9)
+
